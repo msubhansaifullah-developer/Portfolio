@@ -1,0 +1,111 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 4782 >>
+stream
+0.545 0.361 0.965 rg
+0 0 6 792 re f
+BT /F2 22 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 742 Tm (Abdul Subhan Durrani) Tj ET
+BT /F2 12 Tf 0.36 0.24 0.72 rg 1 0 0 1 54 714 Tm (Full Stack Developer) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 697 Tm (Islamabad, Pakistan | https://abdulsubhan.netlify.app | 0326 644 7696 | devsubhan01@gmail.com |) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 679 Tm (https://www.linkedin.com/in/abdul-subhan-durrani-7302a2361) Tj ET
+0.545 0.361 0.965 RG 1 w 54 661 m 558 661 l S
+BT /F2 13 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 645 Tm (Profile) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 624 Tm (I'm Abdul Subhan Durrani, a Full Stack Developer based in Islamabad, Pakistan. I specialize) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 610.5 Tm (in building scalable web applications, business management systems, and efficient digital) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 597 Tm (solutions using Laravel, PHP, JavaScript, and modern frontend technologies.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 575.5 Tm (My work involves developing Laravel applications, implementing backend business logic,) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 562 Tm (managing databases, building frontend functionality, and improving application workflows.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 544.5 Tm (I enjoy solving real-world problems through clean code, efficient architecture, and) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 531 Tm (user-focused development.) Tj ET
+BT /F2 13 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 507.5 Tm (Experience) Tj ET
+BT /F2 11.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 486.5 Tm (Full Stack Developer, Shape Solutions \(Pvt.\) Ltd.) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 471 Tm (Islamabad, Pakistan | December 2025 - Present) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 453 Tm (- Developing and maintaining Laravel-based applications.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 439 Tm (- Building and maintaining employee management systems.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 425 Tm (- Developing backend functionality and business logic.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 411 Tm (- Managing MySQL databases and Eloquent relationships.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 397 Tm (- Implementing employee workflows and approval processes.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 383 Tm (- Developing and integrating frontend components.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 369 Tm (- Working with APIs and third-party integrations.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 355 Tm (- Automating reports and repetitive business processes.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 341 Tm (- Troubleshooting and maintaining production applications.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 327 Tm (- Improving application performance and user experience.) Tj ET
+BT /F2 13 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 305 Tm (Technical skills) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 284 Tm (Backend Development: PHP, Laravel, REST APIs, MVC Architecture, Eloquent ORM, Authentication) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 269.5 Tm (& Authorization) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 255 Tm (Frontend Development: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Vue.js, Inertia.js) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 240.5 Tm (Database: MySQL, SQL, Database Design, Query Optimization) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 226 Tm (Development Tools: Git, GitHub, Bitbucket, Postman, Composer, Laragon, Cursor) Tj ET
+BT /F2 13 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 203.5 Tm (Selected work) Tj ET
+BT /F2 11.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 182.5 Tm (Proforce Security System) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 168 Tm (Workforce & Security Management System) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 154 Tm (A comprehensive security workforce management platform designed to manage employees,) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 140.5 Tm (operational activities, shift scheduling, payroll, and security-related business processes.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 127 Tm (Contribution: Worked on developing and maintaining different system modules, implementing) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 113.5 Tm (backend business logic, managing databases, improving workflows, and supporting production) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 100 Tm (functionality.) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 86.5 Tm (Laravel, PHP, MySQL, JavaScript, jQuery, Bootstrap) Tj ET
+BT /F2 11.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 66.5 Tm (Employee Onboarding Module) Tj ET
+BT /F1 9 Tf 0.35 0.35 0.38 rg 1 0 0 1 520 32 Tm (1 / 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 1566 >>
+stream
+0.545 0.361 0.965 rg
+0 0 6 792 re f
+BT /F1 9 Tf 0.35 0.35 0.38 rg 1 0 0 1 54 758 Tm (Abdul Subhan Durrani - CV) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 742 Tm (HRMS & Employee Onboarding) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 728 Tm (An employee onboarding solution designed to streamline the hiring and employee onboarding) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 714.5 Tm (process.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 701 Tm (Contribution: Developed onboarding functionality, implemented validation rules, managed) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 687.5 Tm (document workflows, and worked on backend processing and approval logic.) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 674 Tm (Laravel, PHP, MySQL, JavaScript, Bootstrap) Tj ET
+BT /F2 11.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 654 Tm (Report Automation) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 639.5 Tm (Business Process Automation) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 625.5 Tm (A reporting automation solution designed to reduce manual reporting tasks and improve) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 612 Tm (operational efficiency.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 598.5 Tm (Contribution: Worked on automating reporting processes and implementing backend logic for) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 585 Tm (generating and managing reports.) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 571.5 Tm (Laravel, PHP, MySQL, SQL) Tj ET
+BT /F1 9 Tf 0.35 0.35 0.38 rg 1 0 0 1 520 32 Tm (2 / 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Title (Abdul Subhan Durrani CV) /Author (Abdul Subhan Durrani) >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000456 00000 n 
+0000005290 00000 n 
+0000005426 00000 n 
+0000007044 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R /Info 9 0 R >>
+startxref
+7129
+%%EOF

@@ -1,1 +1,2 @@
-/*    /404.html    404    Method=GET,HEAD
+# Unknown pages use 404.html automatically.
+# A catch-all redirect here also blocks the contact form POST.

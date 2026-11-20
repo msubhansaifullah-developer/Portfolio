@@ -139,7 +139,9 @@ for (const project of projects) {
   addText(project.category, { size: 10, color: muted, gap: 4 });
   addText(project.description, { size: 10.5, color: ink, gap: 3 });
   addText(`Contribution: ${project.contribution}`, { size: 10.5, color: ink, gap: 3 });
-  addText(project.technologies.join(", "), { size: 10, color: muted, gap: 4 });
+  if (project.technologies.length) {
+    addText(project.technologies.join(", "), { size: 10, color: muted, gap: 4 });
+  }
   addGap(6);
 }
 

@@ -19,13 +19,15 @@ export default function ProjectCard({ project }) {
           </Link>
         </h3>
         <p className="mt-4 max-w-xl text-sm leading-7 text-mist sm:text-base">{project.description}</p>
-        <ul className="mt-5 flex flex-wrap gap-2">
-          {project.technologies.map((technology) => (
-            <li key={technology} className="rounded-full border border-line bg-ink px-3 py-1 text-xs text-paper">
-              {technology}
-            </li>
-          ))}
-        </ul>
+        {project.technologies.length ? (
+          <ul className="mt-5 flex flex-wrap gap-2">
+            {project.technologies.map((technology) => (
+              <li key={technology} className="rounded-full border border-line bg-ink px-3 py-1 text-xs text-paper">
+                {technology}
+              </li>
+            ))}
+          </ul>
+        ) : null}
         <p className="mt-5 inline-flex items-center gap-2 text-sm text-paper">
           View details
           <ArrowUpRight className="h-4 w-4 transition duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" aria-hidden="true" />

@@ -44,11 +44,15 @@ export default function ProjectPage() {
         <ProjectVisual project={project} contained />
         <p className="mt-3 text-xs leading-5 text-mist">
           {project.image
-            ? "Product screenshot. Staff names and site addresses are hidden."
+            ? "Product screenshot. Details on screen are sample data."
             : "Interface illustration, not a production screenshot."}
         </p>
 
-        <div className="mt-12 grid items-start gap-8 lg:grid-cols-[minmax(0,1fr)_16.5rem]">
+        <div
+          className={`mt-12 grid items-start gap-8 ${
+            project.technologies.length ? "lg:grid-cols-[minmax(0,1fr)_16.5rem]" : ""
+          }`}
+        >
           <section aria-labelledby="features-heading">
             <h2 id="features-heading" className="font-serif text-3xl text-paper">
               Key features
@@ -62,6 +66,7 @@ export default function ProjectPage() {
               ))}
             </ul>
           </section>
+          {project.technologies.length ? (
           <section aria-labelledby="tech-heading">
             <h2 id="tech-heading" className="font-serif text-3xl text-paper">
               Technologies
@@ -74,6 +79,7 @@ export default function ProjectPage() {
               ))}
             </ul>
           </section>
+          ) : null}
         </div>
       </div>
       </div>

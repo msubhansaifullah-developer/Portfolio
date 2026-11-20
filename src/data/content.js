@@ -201,6 +201,33 @@ export const projects = [
     seoDescription:
       "Report Automation generates database-driven reports and reduces repetitive reporting work. Abdul Subhan Durrani implements the Laravel, PHP, MySQL, and SQL logic behind those reports.",
   },
+  {
+    slug: "signage-inventory-system",
+    name: "Signage Inventory System",
+    category: "Inventory & Purchasing",
+    visual: "reports",
+    description:
+      "An inventory management system where clients can purchase products, with stock, orders, pricing, and payments kept in one place.",
+    features: [
+      "Product catalog for client purchases",
+      "Inventory tracking",
+      "Orders",
+      "Pick lists",
+      "Purchasing",
+      "Pricing",
+      "Client records",
+      "Invoices and payments",
+    ],
+    contribution:
+      "Worked on the signage inventory system, including the product purchasing flow for clients.",
+    technologies: [],
+    image: "/images/signage-inventory-payments.jpg",
+    imageAlt: "Payments screen listing invoices, clients, amounts, and completed payment status.",
+    imageWidth: 1024,
+    imageHeight: 462,
+    seoDescription:
+      "Signage Inventory System is an inventory management system where clients can purchase products. Abdul Subhan Durrani worked on the purchasing flow, with orders, stock, pricing, and payments in one system.",
+  },
 ];
 
 export const principles = [

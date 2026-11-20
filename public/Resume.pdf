@@ -68,7 +68,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
 endobj
 8 0 obj
-<< /Length 1566 >>
+<< /Length 2196 >>
 stream
 0.545 0.361 0.965 rg
 0 0 6 792 re f
@@ -86,6 +86,12 @@ BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 612 Tm (operational efficiency.) Tj ET
 BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 598.5 Tm (Contribution: Worked on automating reporting processes and implementing backend logic for) Tj ET
 BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 585 Tm (generating and managing reports.) Tj ET
 BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 571.5 Tm (Laravel, PHP, MySQL, SQL) Tj ET
+BT /F2 11.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 551.5 Tm (Signage Inventory System) Tj ET
+BT /F1 10 Tf 0.28 0.28 0.32 rg 1 0 0 1 54 537 Tm (Inventory & Purchasing) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 523 Tm (An inventory management system where clients can purchase products, with stock, orders,) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 509.5 Tm (pricing, and payments kept in one place.) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 496 Tm (Contribution: Worked on the signage inventory system, including the product purchasing flow) Tj ET
+BT /F1 10.5 Tf 0.1 0.1 0.12 rg 1 0 0 1 54 482.5 Tm (for clients.) Tj ET
 BT /F1 9 Tf 0.35 0.35 0.38 rg 1 0 0 1 520 32 Tm (2 / 2) Tj ET
 endstream
 endobj
@@ -103,9 +109,9 @@ xref
 0000000456 00000 n 
 0000005290 00000 n 
 0000005426 00000 n 
-0000007044 00000 n 
+0000007674 00000 n 
 trailer
 << /Size 10 /Root 1 0 R /Info 9 0 R >>
 startxref
-7129
+7759
 %%EOF

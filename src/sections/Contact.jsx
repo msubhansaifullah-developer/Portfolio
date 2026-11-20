@@ -104,7 +104,7 @@ export default function Contact() {
       for (const [key, value] of data.entries()) {
         body.append(key, typeof value === "string" ? value.trim() : value);
       }
-      const response = await fetch("/", {
+      const response = await fetch("/contact.html", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: body.toString(),
@@ -178,7 +178,7 @@ export default function Contact() {
             className="surface p-6 sm:p-8"
             name="contact"
             method="POST"
-            action="/"
+            action="/contact.html"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
             noValidate
